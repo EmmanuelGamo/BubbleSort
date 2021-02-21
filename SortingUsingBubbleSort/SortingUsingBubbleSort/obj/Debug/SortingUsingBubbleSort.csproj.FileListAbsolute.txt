@@ -1,0 +1,7 @@
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\bin\Debug\SortingUsingBubbleSort.exe.config
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\bin\Debug\SortingUsingBubbleSort.exe
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\bin\Debug\SortingUsingBubbleSort.pdb
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\obj\Debug\SortingUsingBubbleSort.csprojAssemblyReference.cache
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\obj\Debug\SortingUsingBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\obj\Debug\SortingUsingBubbleSort.exe
+C:\Users\emman\source\repos\SortingUsingBubbleSort\SortingUsingBubbleSort\obj\Debug\SortingUsingBubbleSort.pdb
